@@ -1,0 +1,22 @@
+C:\Users\Хозяин\source\repos\пр 3 новый\bin\Debug\пр 3 новый.exe.config
+C:\Users\Хозяин\source\repos\пр 3 новый\bin\Debug\пр 3 новый.exe
+C:\Users\Хозяин\source\repos\пр 3 новый\bin\Debug\пр 3 новый.pdb
+C:\Users\Хозяин\source\repos\пр 3 новый\obj\Debug\пр 3 новый.csproj.AssemblyReference.cache
+C:\Users\Хозяин\source\repos\пр 3 новый\obj\Debug\пр_3_новый.Form1.resources
+C:\Users\Хозяин\source\repos\пр 3 новый\obj\Debug\пр_3_новый.Form2.resources
+C:\Users\Хозяин\source\repos\пр 3 новый\obj\Debug\пр_3_новый.Properties.Resources.resources
+C:\Users\Хозяин\source\repos\пр 3 новый\obj\Debug\пр 3 новый.csproj.GenerateResource.cache
+C:\Users\Хозяин\source\repos\пр 3 новый\obj\Debug\пр 3 новый.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\source\repos\пр 3 новый\obj\Debug\пр 3 новый.exe
+C:\Users\Хозяин\source\repos\пр 3 новый\obj\Debug\пр 3 новый.pdb
+C:\Users\koa93\OneDrive\Рабочий стол\пр 3 новый\bin\Debug\пр 3 новый.exe.config
+C:\Users\koa93\OneDrive\Рабочий стол\пр 3 новый\bin\Debug\пр 3 новый.exe
+C:\Users\koa93\OneDrive\Рабочий стол\пр 3 новый\bin\Debug\пр 3 новый.pdb
+C:\Users\koa93\OneDrive\Рабочий стол\пр 3 новый\obj\Debug\пр 3 новый.csproj.AssemblyReference.cache
+C:\Users\koa93\OneDrive\Рабочий стол\пр 3 новый\obj\Debug\пр_3_новый.Form1.resources
+C:\Users\koa93\OneDrive\Рабочий стол\пр 3 новый\obj\Debug\пр_3_новый.Form2.resources
+C:\Users\koa93\OneDrive\Рабочий стол\пр 3 новый\obj\Debug\пр_3_новый.Properties.Resources.resources
+C:\Users\koa93\OneDrive\Рабочий стол\пр 3 новый\obj\Debug\пр 3 новый.csproj.GenerateResource.cache
+C:\Users\koa93\OneDrive\Рабочий стол\пр 3 новый\obj\Debug\пр 3 новый.csproj.CoreCompileInputs.cache
+C:\Users\koa93\OneDrive\Рабочий стол\пр 3 новый\obj\Debug\пр 3 новый.exe
+C:\Users\koa93\OneDrive\Рабочий стол\пр 3 новый\obj\Debug\пр 3 новый.pdb
